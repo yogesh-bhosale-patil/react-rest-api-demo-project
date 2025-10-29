@@ -1,4 +1,4 @@
-name: Deployment
+name: environment Variable Demo
 on:
   push:
     branches:
